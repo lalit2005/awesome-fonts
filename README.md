@@ -1,2 +1,2 @@
-# awesome-fonts
-List of 😎   awesome fonts
+# Awesome-fonts
+Curated list of 😎   awesome fonts
